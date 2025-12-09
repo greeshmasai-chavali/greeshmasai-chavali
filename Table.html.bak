@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> table </title>
+	</head>
+	<body>
+	<!--6rows,5columns-->
+	<table border="I">
+		<tr>
+			<th id="col-1" rowspan="3">Heading</th>
+			<th id="col-2" colspan="2">Students</th>
+			<th id="col-3" colspan="7">Details</th>
+	 </tr>
+	 <tr id="2">
+		<th id="col-1" colspan="2">Id</th>
+		<th id="col-2" rowspan="2">Name</th>
+		<th id="col-3" colspan="3">Department</th>
+		<th id="col-4" colspan="2">Roll Number</th>
+	</tr>
+	<tr id="3">
+		<th id="col-1" rowspan="6">Student List</th>
+	</tr>
+			
+ </body>
+</html>

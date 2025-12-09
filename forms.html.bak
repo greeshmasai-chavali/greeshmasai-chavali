@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	    <head>
+		       <title> Contact</title>
+		</head>
+		<body bgcolor="pink">
+				<!--forms-->
+				<h2>forms</h2>
+				<form action="contact.py"
+				method="post">
+                <fieldset>
+				       <legend>contact</legend>
+				<label for="nametype">first name:</label>
+				<input type="name" first name="nametype" placeholder="enter text">
+				<br><br>
+				<label for="nametype">last name:</label>
+				<input type="name" last name="nametype" placeholder="enter text">
+				<br><br>
+				<label for="numbertype">ph.no:</label>
+				<input type="number"name="numbertype" placeholder="enter number">
+				<br><br>
+				<label for="datetype">Date :</label>
+				<input type="date"name="date " placeholder="select date">
+				<br><br>
+				<label for="text type">Additional requests:</label>
+				<input type="text" name="Additional requests" placeholder="enter addtional">
+				<br><br>
+				<label for="check box"></label>
+				<input type="check box" placeholder="yes,subscribe me to your newsletter">
+				<br><br>
+			   </body>
+</html>

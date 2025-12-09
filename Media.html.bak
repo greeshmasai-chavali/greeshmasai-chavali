@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title> New Document </title>
+	</head>
+	<body>
+		<!--media tags-->
+		<a href="C:\Users\6LABSYSTEM99\Pictures\image222.jpg">
+			<img src="C:\Users\6LABSYSTEM99\Pictures\image222.jpg">
+		</a>
+		<video src= "https://www.youtube.com/embed/7Y6hL4DHvK0?si=ZWOlDffDoYxqk1Gd" title="YouTube video player" controls></video>
+ </body>
+</html>

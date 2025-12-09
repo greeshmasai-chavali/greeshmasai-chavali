@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>A test table with merged cells </title>
+	</head>
+	<body>
+			<!--4rows and 4columns-->
+			<table border="1" cellpadding="10px">
+				<tr  id="row-1" >
+					<td id="col-1" rowspan="2"></td>
+					<td id="col-2" colspan="2">Average</td>
+					<td id="col-4" rowspan="2">Red<br> eyes</td>
+			</tr>
+			<tr id="row-2">
+					<td id="col-2">height </td>
+					<td id="col-3">weight</td>
+		
+			</tr>
+         <tr id="row-3">
+		             <td id="row-3-1">Males</td>
+					<td id="col-1">1.9</td>
+					<td id="col-2">0.003</td>
+					<td id="col-3">40%</td>
+					
+		   <tr id="row-4">
+                     <td id="row-4-2">Females</td>
+					<td id="col-2">1.7</td>
+					<td id="col-3">0.002</td>
+					<td id="col-4">43%</td>
+           </tr>
+		</table>
+  </body>
+</html>

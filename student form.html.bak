@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Student Registration Form </title>
+	</head>
+	<body bgcolor="pink">
+			<!--forms-->
+			<h2>student registration</h2>
+			<form action="register.py" method="post">
+			<fieldset>
+				<legend>student register</legend>
+			<label for="numbertype">Rollno:</label>
+			<input type="number" name="number type"    
+			 placeholder="enter number">
+			<br><br>
+            <label for="text type">student name:</label>
+			<input type="text" name="text type" value="first name" >
+			<input type="text "name="text type" value="last name">
+			 <br><br>
+			 <label for="text  type">Father's name:</label>
+			 <input type="text "name="text type"  placeholder="enter name">
+             <br><br>
+			 <label for="datetype">Date of birth:</label>
+			 <input type="day,month,year"name="date type" placeholder="select day month year">
+			 <br><br>
+			 <label for="number type">Mobile no:</label>
+			 <input type="number" name="number type" placeholder="enter number">
+			 <br><br>
+ </body>
+</html>

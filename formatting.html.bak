@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		  <title>Formatting</title>
+	</head>
+	<body>
+			<!--formatting-->
+			<p>This is an example of some BOLD text</p>
+			<p>When you come over to my house,<strong>beware</strong>of the dog!Even though the word beware is displayed as bold,since it is marked using the <strong> element, the purpose is to mark it an important!</p>
+			<p>Would you like to spead the weekend cailing and fishing on my boat slice of Life?</p>
+			<p>My mom made a small mistake in leaving a door open and a sparrowflew in!</p>
+			<p>I like to drink H<sub>2</sub>O every day to keep me hydrated.My birthday is the 29<sup>th</sup>of February 1995.</p>
+			<p>While the bank robber was busy gathering the cash from the counter,my friend whispered in my car,"Let's speak out of here...",We slowly moved towards the door and them made a dash for it!</p>
+			<p><mark>This test is highlighted witha marker,</mark>and this is not</p>
+			<p>The quick brown fox jumps right over the lazy lazy dog.</p>
+			</body>
+</html>
